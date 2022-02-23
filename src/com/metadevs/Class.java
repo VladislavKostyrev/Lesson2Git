@@ -1,8 +1,7 @@
 package com.metadevs;
 
-public class Main {
-
+public class Class {
     public static void main(String[] args) {
-	int a = 13;
+        String text;
     }
 }
